@@ -2,6 +2,14 @@
 ## Articles
 [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
 
+[Things You Should Never Do, Part I - JOEL SPOLSKY](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+
+[The Law of Leaky Abstractions - JOEL SPOLSKY](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+
+[How Microsoft Lost the API War - JOEL SPOLSKY](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/)
+
+[The Twelve-Factor App](https://12factor.net/)
+
 ## Videos
 [Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 
