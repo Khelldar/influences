@@ -1,12 +1,12 @@
 
 ## Articles
-[Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+[Programming Sucks - ](https://www.stilldrinking.org/programming-sucks)
 
-[Things You Should Never Do, Part I - JOEL SPOLSKY](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+[Things You Should Never Do, Part I - Joel Spolsky](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
-[The Law of Leaky Abstractions - JOEL SPOLSKY](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+[The Law of Leaky Abstractions - Joel Spolsky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 
-[How Microsoft Lost the API War - JOEL SPOLSKY](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/)
+[How Microsoft Lost the API War - Joel Spolsky](https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/)
 
 [The Twelve-Factor App](https://12factor.net/)
 
