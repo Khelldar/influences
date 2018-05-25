@@ -11,8 +11,8 @@
 [The Twelve-Factor App](https://12factor.net/)
 
 ## Videos
-[Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+[Simplicity Matters - Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 
-[The State of the Art in Microservices by Adrian Cockcroft](https://www.youtube.com/watch?v=pwpxq9-uw_0)
+[The State of the Art in Microservices - Adrian Cockcroft](https://www.youtube.com/watch?v=pwpxq9-uw_0)
 
 [Go and the Modern Enterprise - Peter Bourgon ](https://www.youtube.com/watch?v=iFR_7AKkJFU)
