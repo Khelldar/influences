@@ -1,10 +1,10 @@
 
 ## Articles
-[https://www.stilldrinking.org/programming-sucks](https://www.stilldrinking.org/programming-sucks)
+[Programming Sucks](https://www.stilldrinking.org/programming-sucks)
 
 ## Videos
-[https://www.youtube.com/watch?v=rI8tNMsozo0](https://www.youtube.com/watch?v=rI8tNMsozo0)
+[Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 
-[https://www.youtube.com/watch?v=pwpxq9-uw_0](https://www.youtube.com/watch?v=pwpxq9-uw_0)
+[The State of the Art in Microservices by Adrian Cockcroft](https://www.youtube.com/watch?v=pwpxq9-uw_0)
 
-[https://www.youtube.com/watch?v=iFR_7AKkJFU](https://www.youtube.com/watch?v=iFR_7AKkJFU)
+[Go and the Modern Enterprise - Peter Bourgon ](https://www.youtube.com/watch?v=iFR_7AKkJFU)
